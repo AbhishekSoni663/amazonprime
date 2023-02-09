@@ -1273,6 +1273,11 @@
     border-radius: 5px;
     box-shadow: rgba(242, 242, 248, 0.218) 0px 2px 5px 0px, rgba(65, 65, 65, 0.149) 0px 1px 1px 0px;
 }
+.remot1-btn button a{
+	text-decoration:none;
+    font-family: 'Barlow', sans-serif;
+    color: white;
+}
 .remot1-btn button:hover{
     background-color: rgb(33, 79, 116);
     box-shadow: rgba(242, 242, 248, 0.218) 0px 2px 5px 0px, rgba(65, 65, 65, 0.149) 0px 1px 1px 0px;
